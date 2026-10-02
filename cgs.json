@@ -15,7 +15,7 @@
   "allDecksUrlDataIdentifier":"",
   "allDecksUrlPostBodyContent":"",
   "allDecksUrlTxtRoot":"",
-  "allSetsUrl":null,
+  "allSetsUrl":"https://raw.githubusercontent.com/Drew61854/GTCG/refs/heads/main/AllSets.json",
   "allSetsUrlWrapped":false,
   "allSetsUrlZipped":false,
   "autoUpdate":-1,
