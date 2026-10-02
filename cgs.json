@@ -31,7 +31,7 @@
   "cardImageFileType":"png",
   "cardImageFileTypeIdentifier":"",
   "cardImageProperty":"",
-  "cardImageUrl":"https://raw.githubusercontent.com/Drew61854/GTCG/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
+  "cardImageUrl":"https://raw.githubusercontent.com/Drew61854/GTCG/refs/heads/main/sets/{cardSet}/{cardId}.{cardImageFileType}",
   "cardImageUrlOverrides":{},"cardNameBackIdentifier":"","cardNameIdentifier":"name","cardNameIsUnique":true,"cardPrimaryProperty":"Relic Effect",
   "cardProperties":[{"name":"Relic Effect","type":"string","display":"Relic Effect","displayEmpty":"","displayEmptyFirst":false,"delimiter":"",
     "backName":"","frontName":"","properties":[]}],"cardPropertyIdentifier":"id","cardRotationDefault":0,"cardRotationIdentifier":"",
